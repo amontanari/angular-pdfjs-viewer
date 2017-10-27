@@ -24,5 +24,6 @@
         "bower_components",
         "spec",
         "**/*.spec.js"
-    ]
+    ],
+    "version":"v0.8.5"
 }

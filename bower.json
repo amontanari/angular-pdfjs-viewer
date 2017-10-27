@@ -16,7 +16,7 @@
     },
     "dependencies": {
         "angular": "^1.5.8",
-        "pdf.js-viewer": "https://github.com/amontanari/pdf.js-viewer.git"
+        "pdf.js-viewer": "https://github.com/amontanari/pdf.js-viewer.git#1.6.5"
     },
     "ignore": [
         "**/.*",
@@ -25,5 +25,5 @@
         "spec",
         "**/*.spec.js"
     ],
-    "version":"v0.8.5"
+    "version":"v0.8.6"
 }

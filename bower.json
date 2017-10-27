@@ -1,12 +1,13 @@
 {
     "name": "angular-pdfjs-viewer",
     "description": "Embed PDF.js viewer into your angular application",
-    "homepage": "http://github.com/legalthings/angular-pdfjs-viewer",
+    "homepage": "http://github.com/amontanari/angular-pdfjs-viewer",
     "license": "MIT",
     "authors": [
         "LegalThings <info@legalthings.net>",
         "Moesjarraf <moesjarraf@gmail.com>",
-        "Arnold Daniels <arnold@jasny.net>"
+        "Arnold Daniels <arnold@jasny.net>",
+        "Alberto Montanari <alberto.montanari@gmail.com>"
     ],
     "main": "dist/angular-pdfjs-viewer.js",
     "repository": {

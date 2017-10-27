@@ -1,5 +1,5 @@
 {
-  "name": "angular-pdfjs-viewerWindowPrint",
+  "name": "angular-pdfjs-viewer",
   "description": "Embed PDF.js viewer into your angular application",
   "version": "1.0.0",
   "dependencies": {},

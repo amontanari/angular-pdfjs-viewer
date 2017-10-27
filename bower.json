@@ -11,7 +11,7 @@
   "main": "dist/angular-pdfjs-viewer.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/legalthings/angular-pdfjs-viewer.git"
+    "url": "https://github.com/amontanari/angular-pdfjs-viewer.git"
   },
   "dependencies": {
     "angular": "^1.5.8",
